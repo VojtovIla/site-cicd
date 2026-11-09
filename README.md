@@ -1,3 +1,3 @@
 # Мой сайт с автодеплоем
 
-![Deploy Status](https://github.com/Vojtovlla/site-cicd/actions/workflows/deploy.yml/badge.svg)
+[![Deploy static site](https://github.com/VojtovIla/site-cicd/actions/workflows/deploy.yml/badge.svg)](https://github.com/VojtovIla/site-cicd/actions/workflows/deploy.yml)
